@@ -1,6 +1,6 @@
 Chatting Application
 =====================
-[![Assignment Checks](https://github.com/IT3049C/4.Chatting-Application/actions/workflows/classroom.yml/badge.svg)](https://github.com/IT3049C/4.Chatting-Application/actions/workflows/classroom.yml)
+[![Assignment Checks](https://github.com/IT3049C-Students/4-chat-Singh2je/actions/workflows/classroom.yml/badge.svg)](https://github.com/IT3049C-Students/4-chat-Singh2je/actions/workflows/classroom.yml)
 
 Instructions to this assignment can be found [here](#).
 
