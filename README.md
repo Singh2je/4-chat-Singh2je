@@ -6,14 +6,17 @@ Instructions to this assignment can be found [here](#).
 
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+- [X] make sure the assignment checks pass
+- [X] fill out the self evaluation and Reflection
+- [X] submit the repository link on Canvas
 
 ## Self-Evaluation:
 
 how many points out of 20 do you deserve on this assignment:
+20
 
 ## Self-Reflection:
+This was an interesting project. I was always curious about how to build a chatting application. This was a fun one to work on.
 
 ### How long it took me to finish this?
+3.5 hours
